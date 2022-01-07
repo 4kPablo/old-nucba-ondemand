@@ -1,0 +1,9 @@
+.pelicula {
+    display: inline-block;
+    background-color: rgb(2, 0, 12);
+    border-radius: 25px;
+}
+
+.pelicula img {
+    max-height: 400px;
+}
